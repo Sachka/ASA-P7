@@ -1,0 +1,665 @@
+Prof. Heymann has also served as editor of the 18th through 20th editions of the Control of Communicable Diseases Manual, a publication of the American Public Health Association.
+Prof. Heymann received his Bachelor of Arts from Pennsylvania State University and later obtained an MD from Wake Forest University School of Medicine. He also received a Diploma in Tropical Medicine and Hygiene from the London School of Hygiene and Tropical Medicine. Prof. Heymann did two years of practical epidemiology training with the Epidemic Intelligence Service (EIS). Whilst an EIS officer, he was part of the international team that investigated the first outbreak of Ebola in Zaire (with Peter Piot, Karl Johnson, Joel Breman, Joe McCormick amongst others) and the first outbreak of Legionnaire's Disease, in Philadelphia.
+
+</doc>
+<doc id="9367435" url="https://en.wikipedia.org/wiki?curid=9367435" title="Variable-range hopping">
+Variable-range hopping
+
+Variable-range hopping, or Mott variable-range hopping, is a model describing low-temperature conduction in strongly disordered systems with localized charge-carrier states.
+It has a characteristic temperature dependence of
+for three-dimensional conductance, and in general for "d"-dimensions
+Hopping conduction at low temperatures is of great interest because of the savings the semiconductor industry could achieve if they were able to replace single-crystal devices with glass layers.
+The original Mott paper introduced a simplifying assumption that the hopping energy depends inversely on the cube of the hopping distance (in the three-dimensional case). Later it was shown that this assumption was unnecessary, and this proof is followed here. In the original paper, the hopping probability at a given temperature was seen to depend on two parameters, "R" the spatial separation of the sites, and "W", their energy separation. Apsley and Hughes noted that in a truly amorphous system, these variables are random and independent and so can be combined into a single parameter, the "range" formula_3 between two sites, which determines the probability of hopping between them.
+Mott showed that the probability of hopping between two states of spatial separation formula_4 and energy separation "W" has the form:
+where α is the attenuation length for a hydrogen-like localised wave-function. This assumes that hopping to a state with a higher energy is the rate limiting process.
+We now define formula_6, the "range" between two states, so formula_7. The states may be regarded as points in a four-dimensional random array (three spatial coordinates and one energy coordinate), with the "distance" between them given by the range formula_3.
+Conduction is the result of many series of hops through this four-dimensional array and as short-range hops are favoured, it is the average nearest-neighbour "distance" between states which determines the overall conductivity. Thus the conductivity has the form
+where formula_10is the average nearest-neighbour range. The problem is therefore to calculate this quantity.
+The first step is to obtain formula_11, the total number of states within a range formula_3 of some initial state at the Fermi level. For "d"-dimensions, and under particular assumptions this turns out to be
+where formula_14.
+The particular assumptions are simply that formula_10 is well less than the band-width and comfortably bigger than the interatomic spacing.
+Then the probability that a state with range formula_3 is the nearest neighbour in the four-dimensional space (or in general the ("d"+1)-dimensional space) is
+the nearest-neighbour distribution.
+For the "d"-dimensional case then
+This can be evaluated by making a simple substitution of formula_19 into the gamma function, formula_20
+After some algebra this gives
+and hence that
+When the density of states is not constant (odd power law N(E)), the Mott conductivity is also recovered, as shown in this article.
+
+</doc>
+<doc id="9367436" url="https://en.wikipedia.org/wiki?curid=9367436" title="Tom Duggan">
+Tom Duggan
+
+Thomas Duggan Goss (professional name: Tom Duggan) (August 20, 1915 – May 28, 1969) was an NBC and ABC radio and television commentator in Chicago and Los Angeles and a crusader against Chicago mob involvement in boxing and politics.
+Duggan was born as Thomas Goss to Irish-American parents in Chicago, Cook County, Illinois. His father was a plumber. He grew up in Chicago and went to work as his father's assistant.
+In 1943, during World War II, Duggan enlisted in the United States Marine Corps and served in the 3rd Marine Division in the South Pacific. Near the end of the war, he was assigned to Armed Forces Radio in China, developing an interest in broadcasting.
+After his discharge, Duggan became a radio announcer for station KCLU in Santa Barbara, California, using the name Tom Goss.
+In 1949 Duggan went to work for the NBC radio (WMAQ) and television (WNBQ) outlets in Chicago. He now called himself Tom Duggan, the name he would use for the rest of his career. Duggan's nightly 15 minute television sports commentary on WNBQ at 10:30 quickly gained popularity.
+Duggan constantly spoke out against Chicago mob figures and corrupt politicians in the International Boxing Club (IBC), the governing body for professional boxing. He continually railed against James D. Norris and his partner Arthur Wirtz over the mob's influence in boxing. Duggan finally alleged on-air that Norris had threatened to kill him. Both Norris and NBC demanded an apology, and when Duggan refused he was fired.
+The "Chicago Tribune" reported that "the station and newspaper offices were swamped with phone calls protesting Duggan's dismissal."
+Letters published in the "Tribune" included the following:
+"Tom Duggan – Unafraid. A voice crying in the wilderness! St. George and The Dragon! So Long Tom – we'll all crawl back into our safe little shells now we've had our brief moment in the sun."
+"Whether you like Duggan or not, what this country needs is more young guys telling whoever and whatever they think needs a little airing."
+"If Tom Duggan tomorrow would enter politics and run on the Democratic ticket for Mayor of Chicago, his popularity would push him in with a landslide."
+Because of his enormous popularity, Chicago newspapers had big, bold front page headlines announcing his firing. A petition was circulated throughout Chicago, calling for Duggan's reinstatement.
+In May 11, 1953 Time Magazine wrote "In Chicago, TV Sportscaster Tom Duggan has as many detractors among his 250,000 viewers as he has fans, but they all get some sort of kick out of his outspoken opinions. Last February, when Duggan was fired by NBC's station WNBQ for saying on the air that President Jim Norris of the International Boxing Club was "palling around with gangsters," the station was swamped with protests. An NBC apology persuaded Norris to withdraw his libel suit and Duggan was returned to the air.
+Last month Duggan was at it again. On his 10:30 p.m. show, he took a few sideswipes at the forthcoming championship Marciano-Walcott fight, which is promoted by Jim Norris and his I.B.C., and due to be televised by NBC. The next day, says Duggan, he was fired again. Thousands of Duggan fans again phoned, wired and wrote their protests, but this time NBC stiffly announced that it had "terminated the services of Mr. Thomas Duggan because of his failure to adhere to . . . standard operating policies. This policy requires all material for broadcast to be cleared in advance."
+Duggan was far from silenced. He still had a sports column in the Chicago American at $250 a week. And, five days later, he was back with a new sponsor and a new vote of confidence, hired to do two half-hour sports shows at $200 each over ABC's station WBKB-TV. Said Duggan, by now used to landing on his feet: "I'm not trying to be a crusader on sports. I'm more like an umpire, calling the plays as I see 'em."
+With NBC refusing to rehire him, Duggan accepted a job with ABC as a nightly commentator on WBKB (now WLS-TV).
+Duggan has been called:
+"... loud, abrasive, and at times unpredictable. Perhaps best described as the Morton Downey, Jr. of his day, Duggan also had ties to the Chicago Mob, an association that made Quinlan nervous, especially when Duggan would "predict" a Mob hit on the air and two or three weeks later that hit would come to pass."
+"To take advantage of his recognition for his anti-mob stand, ABC proposed that Duggan host a special presentation on Chicago mob boss Tony Accardo, revealing his links with organised crime. ABC sought the co-operation of the Chicago Crime Commission and state and local law enforcement to compile material and protect Duggan should there be retribution for the show. However, some staff at ABC and various law enforcement officials opposed the show."
+The concept was abandoned after a meeting between ABC manager Sterling Quinlan and Accardo himself at the "Tradewinds" lounge. Instead, Duggan hosted a talk show from 11:10 until midnight on weeknights. It was the first all-talk show to appear on television.
+The show covered many issues, but Duggan continued his attacks on alleged mob influence in boxing. Viewers could call in and submit questions to a "girl Friday," who then read them to Duggan. Fearing attack by mobsters, Duggan began carrying a pistol.
+The nighttime show became so popular that Duggan was also given an afternoon audience participation show and a Saturday evening variety show. All three shows outrated their competitors. In 1955, Duggan strongly supported the first election campaign of Richard J. Daley. Daley would become Chicago's longest-serving mayor.
+Also in 1955, Duggan was sentenced to ten days in jail for contempt of court after commenting on a divorce case being heard by Cook County Judge Daniel A. Covelli. Duggan's name had been mentioned in the case after a private detective alleged the wife involved had slept with Duggan. Duggan denied the allegation on-air and charged that the husband in the case was associated with the mob.
+Judge Covelli found that Duggan was in contempt of court for making allegations which would reflect poorly on witnesses. Covelli himself would subsequently be identified as a protégé of Chicago's First Ward mobster Pat Marcy. Duggan would later receive a full pardon from Illinois Governor Otto Kerner, Jr.
+On February 9, 1956, Duggan resigned from ABC and moved to Los Angeles.
+Roger M. Grace wrote in a column, “In retrospect, it appears that Tom Duggan, a colorful and controversial talk show host and commentator in Los Angeles in the 1950s and ’60s, had been chased out of Chicago, where he was exposing corruption, by a judge who was himself linked with underworld figures."
+Duggan hosted television shows on KCOP-TV, KTLA and KTTV, and wrote a newspaper column for the Los Angeles Herald-Examiner. In early 1965 Duggan was hired to do the morning drive show on KBLA-Burbank (1500AM) as part of the station's new top 40 format, but lasted only a couple of months. He then moved over to KLAC ("Two-Way Radio") to host a talk show and stayed for 4 years. In 1967 he commuted between Los Angeles and Chicago for 10 months to tape a program for Chicago television.
+Duggan also acted in movies and on television. His films included "But Not for Me" with Clark Gable, and "Frankenstein 1970" with Boris Karloff. His largest movie role was in "Blueprint for Robbery" where he played District Attorney James Livingston,
+On May 28, 1969, Tom Duggan was involved in a serious traffic accident. He died the following day at the age of 53, and was buried at Holy Cross Cemetery. Pallbearers included then Los Angeles Mayor Sam Yorty and actor Jimmy Durante.
+
+</doc>
+<doc id="9367447" url="https://en.wikipedia.org/wiki?curid=9367447" title="Ypthima huebneri">
+Ypthima huebneri
+
+The Common Fourring "Ypthima huebneri" is a species of Satyrinae butterfly found in Asia.
+Upperside greyish brown. Fore wing with the usual comparatively large, bi-pupilled, yellow-ringed, black pre-apical ocellus. Hind wing usually with two, sometimes with three, very rarely without any, smaller similar uni-pupilled post-discal ocelli. Underside greyish white, not very densely covered with transverse short brown striae. Fore wing with the preapical ocellus as on the upperside, obscure discal and subterminal dull brown transverse fasciae and a narrow brown ring round the ocellus diffusely produced posteriorly. Hind wing with one apical and typically three postdiscal posterior ocelli placed in a curve; traces of transverse brown discal and subterminal fasciae in most specimens. Antenna, head, thorax and abdomen greyish brown, the abdomen paler beneath. Male without secondary sex-mark.
+Similar, somewhat paler on both upper and under sides ; the discal and subterminal transverse fasciae more pronounced; the ocelli on the underside of the hind wing minute or absent.
+Wing expanse of 40-44 mm.
+Var. "jocularia", Swinhoe, is the pale form from Western India "said by Messrs. Elwes and Edwards to be nearest to "kashmira", Moore."(quoted in Bingham)
+Race "kashmira", Moore, differs from the typical form in the darker and more uniform colour of the upperside, in the groundcolour on the underside being dull brownish not white, and the wings non-fasciated in most specimens, or with only the sub-terminal fascia on the fore wing. The clasp in the male differs, however, considerably from that of "Y. huebneri".
+Wing expanse of 33-39 mm.
+Found in N.W. Himalayas; Kashmir; S. India, Mysore and the Anaimalai Hills (fide Elwes quoted in Bingham).
+Race "ceylonica": Upperside vandyke-brown to dark sepia-brown. Fore wing uniform, with the usual single preapical ocellus. Hind wing: posterior half, sometimes less than hall:, pure white, with two or three small posterior ocelli, a lunular incomplete subterminal and an even slender terminal brown line. Underside white.with somewhat sparse, short, delicate, fine transverse brown stride, getting denser towards the apex of the fore wing. Tore wing with the ocellus, a brown ring surrounding it very broad and very broadly and diffusely produced downwards, discal and subterminal transverse fascial obscure. Hind wing with four ocelli in a curve, the anal bi-pupilled ; traces of a discal transverse brown fascia and of a lunular subterminal brown line. Antennae, head, thorax and abdomen brown ; abdomen white beneath. Wing expanse of 34-40 mm. Found in Bengal, Orissa ; S. India, the Nilgiris, Travancore : Ceylon.
+Throughout peninsular India, Assam and Burma also Malaysia and Indochina.
+Larva. About one inch in length, with two divergent processes from the anal segment pointing backwards. "Colour entirely green with a dorsal line somewhat darker green, which becomes white at the fourth segment, and extends right through the crown of the head; there is also a paler green lateral line below the spiracles." (de Niceville quoted in Bingham) Host plants include "Axonopus compressus".
+Pupa. "Green or brown, with the head rounded, the edges of the wing-cases raised and angled anteriorly; the thorax humped and marked like the abdominal segments, with some dark brown waved lines and spots" (de Niceville quoted in Bingham)
+
+</doc>
+<doc id="9367452" url="https://en.wikipedia.org/wiki?curid=9367452" title="Punchline Comedy Club">
+Punchline Comedy Club
+
+The Punchline is a comedy club first opened in 1982 in Sandy Springs, Georgia.
+The venue seats 270 people and presents shows five or more nights per week. The club has hosted comedians as diverse as Robin Williams, Eddie Murphy, Dane Cook, and was the original performance venue of Jeff Foxworthy.
+The clubhouse originally housed a carpet barn, and at one time was a country and western bar. The decor of the country and western bar is still evident in the club today. Ron DiNunzio and Dave Montesano were the original owners of the business and today comedian manager Chris DiPetta, and Atlanta attorney Jamie Bendall are the owners of this great comedy club. It closed down from its original location in Sandy Springs Ga. in March 2015. There was a hiatus of seven months with no brick and morter location. It has now opened again sharing a building with the Landmark diner.
+
+</doc>
+<doc id="9367461" url="https://en.wikipedia.org/wiki?curid=9367461" title="Kyūya Fukada">
+Kyūya Fukada
+
+Kyūya was born in what is now Kaga city, Ishikawa prefecture. He attended the Fujishima High School, followed by the preparatory school for the Tokyo Imperial University, where he studied literature. During this time, he became friends with Hori Tatsuo and Takami Jun. He also joined the school's mountaineering club, and took the pen-name of Kyusan (literally Nine Mountains) as his haiku pseudonym.
+While a student at Tokyo University, he began writing short stories, and he also fell in love with the poet Kitabatake Yao. Shortly after they started living together, he published his first work. "Orokko no musume". The work was well received by critics, emboldening him enough to quit school in 1930 and to devote his energies to writing.
+In 1932, Fukada published his next work, "Asunarao". However, leading literary critics Kobayashi Hideo and Kawabata Yasunari soon realized that "Asunarao" and his previous work "Orokko no musume" were not Fukada's works at all, but had been copy-edited (or to put it less charitably, plagiarized) from the writings of Kitabatake Yao, which nearly ended his credibility as a writer.
+In March 1940, Fukada formally married Kitabatake Yao. However, in May 1941, Fukada happened to be reunited with his first love, Koba Shigeko (the sister of Nakamura Mitsuo) in a chance meeting, and by August 1942, Shigeko gave birth to his illegitimate child. His wife soon found out about the affair, and Fukada quickly enlisted in the Imperial Japanese Army, asking for an immediate transfer to the front lines war-time China to avoid the potentially more dangerous conflict at home; he served for the next three years in front-line combat units from Tsingtao to Nanjing.
+At the end of the war, Fukada was demobilized, and returned to Japan in 1946, but he avoided a reunion with his wife and went back to Shigeko, whom he married as soon as his divorce was finalized. However, Fukada and his new wife were forced to live in poverty over ten years, as his former wife made sure that the earlier issue of his “copy edited” versions of her works was remembered by publishers. Partly due to the stigma he was unable to publish any works for over 10 years.
+Fukada was reconciled with fellow mountaineer Kobayashi Hideo, who encouraged him to write non-fiction works about mountains and mountaineering. From 1959-1963, he wrote "Nihon Hyakumeizan" (100 Famous Japanese Mountains), which was an immediate hit, and which won the 16th Yomiuri Prize. In 1968, Fukada was made vice-chairman of the Japan Mountaineering Association. In 1966, and again in 1969-1970, he made long journeys in Central Asia of China and the Soviet Union, exploring the mountains of the Silk Road.
+Fukada died in March 1971 near the summit of Mount Kayagadake (1704 m) in Yamanashi prefecture of cerebrovascular disease. His grave is at the temple of Honko-ji in Daishoji-machi, Kaga city, Ishikawa prefecture.
+Fukada was honored by the Japanese government with a commemorative postage stamp issued on 1 July 2003.
+
+</doc>
+<doc id="9367469" url="https://en.wikipedia.org/wiki?curid=9367469" title="The Pink Panther in: A Pink Christmas">
+The Pink Panther in: A Pink Christmas
+
+The Pink Panther in: A Pink Christmas is a holiday-themed special starring the famous hip feline. It first aired on ABC on December 7, 1978.
+The Pink Panther is homeless and wandering a big city at Christmastime. Snow is on the ground and he is very cold and hungry. The cartoon follows his efforts to obtain food while overcoming a lot of crazy holiday mayhem in town. A chance discovery of a Santa suit leads to a job in department store as Santa, but when he takes a bite out of a little girl's gingerbread man he is chased by the department store manager. Among several other attempts of finding food, he also attempts to earn money by shoveling the snowy stairs of a nearby house and to get himself arrested in order to get a meal in jail (a plot point borrowed from O. Henry's classic story "The Cop and the Anthem"), but his efforts are thwarted at every turn.
+After witnessing a robbery attempt with a police officer nearby, Pink chases after the cop's dropped doughnut which is rolling down the street. There, a little dog who is also hungry takes the doughnut, but Pink pushes him away and takes it for himself. After seeing the look on the little dog's face and realizing that his actions are not in line with the spirit of Christmas, the Pink Panther is ashamed of himself, and shares the doughnut with the dog. Then the Pink Panther goes back to the city park and the dog follows him. Suddenly, a little tree just beside the bench they sit on (the same bench that the panther sat on at the start of the special) magically becomes covered with candles and ornaments, followed by a big table with an ample Christmas dinner magically dropping from the sky. Pink looks up to see that Santa has dropped the food, a reward for the panther's act of kindness toward the dog. He shares the dinner with the little dog and they both begin eating happily.
+Most of the animation staff utilized for the 1978 made-for-television "All New Pink Panther Show" worked on "A Pink Christmas". The special also utilized several portions of the musical score that appeared on the "The All New Pink Panther Show" as well.
+On November 6, 2007, The title special along with "Olym-pinks" and "" was released on the DVD collection "The Pink Panther: A Pink Christmas" from MGM Home Entertainment/20th Century Fox Home Entertainment.
+
+</doc>
+<doc id="9367479" url="https://en.wikipedia.org/wiki?curid=9367479" title="Mauritian literature">
+Mauritian literature
+
+The island of Mauritius is home to many languages, and Mauritian literature exists in French, English, Creole and Indian languages. Major themes in Mauritian literature include exoticism, multiracialism and miscegenation, racial and social conflicts, "indianocéanisme", and—more recently—post-modernism and post-structuralism currents, such as "coolitude".
+After independence in 1968 writers like Azize Asgarally and Dev Virahsawmy reactivated creole language, then considered as a "patois," and wrote literature, especially drama. The new generation of writers has expressed persistent concern with structure and more global themes.
+While "Kreol Morisyen" is the most spoken language on in Mauritius, most of the literature is written in French, although many authors write in English, Bhojpuri, and Morisyen, and others such as Abhimanyu Unnuth in Hindi. Mauritius's renowned playwright Dev Virahsawmy writes exclusively in Morisyen.
+Important authors include Malcolm de Chazal, Ananda Devi, Raymond Chasle, Loys Masson, Marcel Cabon, and Edouard Maunick. Lindsey Collen has been able to carve out a meeting of imaginaries in the unique social setup of this multi-faceted country. Other younger writers like Shenaz Patel, Amal Sewtohul, Natacha Appanah, Sabah Carrim, Alain Gordon-Gentil and Carl de Souza explore the issues of ethnicity, superstition and politics in the novel. Poet and critic Khal Torabully has put forward the concept of "coolitude," a poetics that results from the blend of Indian and Mauritian cultural diversity. Other poets include Hassam Wachill, Edouard Maunick, Sedley Assone, Yusuf Kadel and Umar Timol.
+J. M. G. Le Clézio, who won the Nobel Prize for Literature in 2008, is of Mauritian heritage and holds dual French-Mauritian citizenship.
+The island plays host to the Le Prince Maurice Prize, a literary award celebrating and recognizing 'writers of the heart'. The award is designed to highlight the literary love story in all its forms rather than for pure Romantic Fiction. In keeping with the island's literary culture the prize alternates on a yearly basis between English-speaking and French-speaking writers.
+
+</doc>
+<doc id="9367483" url="https://en.wikipedia.org/wiki?curid=9367483" title="File:ABSAME Logo.png">
+File:ABSAME Logo.png
+
+ABSAME, www.absame.org,
+
+</doc>
+<doc id="9367485" url="https://en.wikipedia.org/wiki?curid=9367485" title="Category:Malay words and phrases">
+Category:Malay words and phrases
+
+
+</doc>
+<doc id="9367490" url="https://en.wikipedia.org/wiki?curid=9367490" title="Wikipedia:Articles for deletion/List of North American Malls with Children's Play Areas">
+Wikipedia:Articles for deletion/List of North American Malls with Children's Play Areas
+
+
+</doc>
+<doc id="9367494" url="https://en.wikipedia.org/wiki?curid=9367494" title="Ypthima philomela">
+Ypthima philomela
+
+The Baby Fivering "Ypthima philomela" is a species of Satyrinae butterfly found in Asia.
+
+</doc>
+<doc id="9367496" url="https://en.wikipedia.org/wiki?curid=9367496" title="M. I. McAllister">
+M. I. McAllister
+
+Margaret I. McAllister is an English author of children's books, born in 1956. She grew up on the north-east coast of England. Her first book, "A Friend for Rachel" (now entitled "The Secret Mice") was published by the Oxford University Press in 1997. "Urchin of the Riding Stars", the first in The Mistmantle Chronicles, was published by Bloomsbury Publishing in 2005.
+
+</doc>
+<doc id="9367497" url="https://en.wikipedia.org/wiki?curid=9367497" title="Andy Hope 1930">
+Andy Hope 1930
+
+Andy Hope 1930 (born Andreas Hofer) is a German artist.
+Since 1998, most of the artist's works have been signed "Andy Hope 1930" (although at that time the artist was still named Andreas Hofer).
+Hope's style borrows from Thriftstore painting, comic books and science fiction illustration, mixing these elements with artistic positions such as those of Kasimir Malevich, James Ensor, Marcel Duchamp and Paul Klee. He creates over-paintings, collages and cut-outs: using pencils, coloured pencils and felt-tip pens, oil, enamel, and acrylic, on such supports as cardboard, paper, canvas, recycled materials and hand-made tapestries. He also makes films and sculptures, and text too plays a major role in his works. His subject matter encompasses superheroes, dinosaurs, devils, spaceships and historical villains.
+In 1996, Andy Hope moved the contents of the Munich thrift store Puschmann to an art space where they were assembled for sale together with works from a number of other artists. Paintings and drawings by Andy Hope depicting landscapes and replicating famous works by Kazimir Malevich were stuck on top of patterned wallpaper.
+Hope's oeuvre is populated by superheroes from the Golden and Silver Age of Comics — Flash Gordon, Batman, Superman, and Wonder Woman — and such futuristic objects as spaceships, laser beams and fantastic uniforms. A series of works focusing on Flash Gordon was followed by the exhibition "Batman Gallery", 2004.
+Hope frequently paints over the top of already painted canvases, sometimes allowing parts of the earlier picture to remain visible. Other works are cut into, removing the vital features such as eyes or whole faces.
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2002
+1996
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2005
+2004
+2003
+2001
+
+</doc>
+<doc id="9367507" url="https://en.wikipedia.org/wiki?curid=9367507" title="Category:Māori words and phrases">
+Category:Māori words and phrases
+
+
+</doc>
+<doc id="9367517" url="https://en.wikipedia.org/wiki?curid=9367517" title="Wikipedia:Articles for deletion/Wissahickon">
+Wikipedia:Articles for deletion/Wissahickon
+
+
+</doc>
+<doc id="9367526" url="https://en.wikipedia.org/wiki?curid=9367526" title="EcoProfit">
+EcoProfit
+
+ECOPROFIT (in full Ecological Project for Integrated Environmental Protection, in German Ökoprofit) was developed in 1991 in Graz, Austria by the Environmental Office of the City of Graz and Graz University of Technology.
+ECOPROFIT is a cooperative approach between the regional authority and local companies with the goal of reducing cost for waste, raw materials, water, and energy. Reductions in these areas also reduce environmental aspects of businesses. The model addresses production companies as well as hospitals, hotels, service companies and tradespeople.
+Important elements of ECOPROFIT are workshops in Cleaner production and individual consulting by experienced consultants. After the first year the companies are audited (legal compliance, environmental performance, environmental programme) and receive an official award by the City. A number of companies at the same time goes for certification according to ISO 14001.
+Additionally, most of the companies join the socalled ECOPROFIT CLUB. In regular workshop meetings they receive an exchange of experience and update their knowledge on environmental law and new organisational and technical development. The companies also receive support by consultants in the identification and implementation of new measures.
+The ECOPROFIT approach as a model of cooperation of the community with regional companies is used in 19 countries on 4 continents.
+More than 5.000 companies worldwide participate in ECOPROFIT projects, most of them in Austria and Germany.
+In Graz, a city with 260.000 inhabitants, until today, on an annual basis approximately 2 million Euros are saved. Results include (as of 2002, first year savings): 100.000 m³ of water, 2 GWh electricity, 0,5 GWhs of process heat, 700 tons of solid waste. This makes Ecoprofit an important means to reduce the industrial contribution to Global warming. In the German projects, more than 100.000 tons of carbon dioxide are saved annually.
+
+</doc>
+<doc id="9367540" url="https://en.wikipedia.org/wiki?curid=9367540" title="Ypthima ypthimoides">
+Ypthima ypthimoides
+
+The Palni Fourring "Ypthima ypthimoides" is a species of Satyrinae butterfly found in Asia.
+
+</doc>
+<doc id="9367546" url="https://en.wikipedia.org/wiki?curid=9367546" title="Category:Nahuatl words and phrases">
+Category:Nahuatl words and phrases
+
+
+</doc>
+<doc id="9367551" url="https://en.wikipedia.org/wiki?curid=9367551" title="Category:Spanish words and phrases">
+Category:Spanish words and phrases
+
+
+</doc>
+<doc id="9367552" url="https://en.wikipedia.org/wiki?curid=9367552" title="File:Terry Larkin baseball.jpg">
+File:Terry Larkin baseball.jpg
+
+Public domain - published before 1923
+
+</doc>
+<doc id="9367558" url="https://en.wikipedia.org/wiki?curid=9367558" title="Wikipedia:Articles for deletion/BML Hillen Keene">
+Wikipedia:Articles for deletion/BML Hillen Keene
+
+
+</doc>
+<doc id="9367566" url="https://en.wikipedia.org/wiki?curid=9367566" title="Byrd in Hand">
+Byrd in Hand
+
+Byrd in Hand is an album by Donald Byrd engineered by Rudy Van Gelder. It was recorded in May 1959 and was released in the same year as BLP 4019 and BST 84019. It was remastered in 2002 and released on CD as Blue Note 42305.
+
+</doc>
+<doc id="9367569" url="https://en.wikipedia.org/wiki?curid=9367569" title="Category:Tagalog words and phrases">
+Category:Tagalog words and phrases
+
+
+</doc>
+<doc id="9367573" url="https://en.wikipedia.org/wiki?curid=9367573" title="Category:Ukrainian words and phrases">
+Category:Ukrainian words and phrases
+
+
+</doc>
+<doc id="9367576" url="https://en.wikipedia.org/wiki?curid=9367576" title="Wikipedia:Articles for deletion/Pooya Rad">
+Wikipedia:Articles for deletion/Pooya Rad
+
+
+</doc>
+<doc id="9367577" url="https://en.wikipedia.org/wiki?curid=9367577" title="Category:Yaghan words and phrases">
+Category:Yaghan words and phrases
+
+Words and phrases of the Yaghan language, spoken in Tierra del Fuego.
+
+</doc>
+<doc id="9367581" url="https://en.wikipedia.org/wiki?curid=9367581" title="Burnley Balloon Festival">
+Burnley Balloon Festival
+
+Burnley Balloon Festival is a balloon festival held in Towneley Park, Burnley. The annual festival, first held in 2003, is usually put on in late July and is regarded as one of the biggest balloon events in the UK.
+At night there is a fireworks display, accompanied by several balloons rising and atmospheric music.
+
+</doc>
+<doc id="9367585" url="https://en.wikipedia.org/wiki?curid=9367585" title="Category:Yiddish words and phrases">
+Category:Yiddish words and phrases
+
+
+</doc>
+<doc id="9367588" url="https://en.wikipedia.org/wiki?curid=9367588" title="Robert Holcot">
+Robert Holcot
+
+Robert Holcot, OP, (c.1290-1349) was an English Dominican scholastic philosopher, theologian and influential Biblical scholar. He was born in Holcot, Northamptonshire. A follower of William of Ockham, he was nicknamed the "Doctor firmus et indefatigabilis". He made important contributions to semantics, the debate over God’s knowledge of future contingents, discussions of predestination, grace, and merit, and philosophical theology more generally.
+Modern interest in Holcot has been limited. His influence in the late Middle Ages, however, was clearly great, as is evidenced by the number of fourteenth- and fifteenth-century manuscripts of his work that have survived. For example, there exist 48 manuscripts of Holcot’s Questions on the Sentences (compared to 36 manuscripts of William of Ockham’s Sentences commentary). More impressive are the 175 manuscripts of his commentary on the "Book of Wisdom" ("Lectiones super librum Sapientiae"), a work that has been identified as a prime literary source for Chaucer's "Nun's Priest's Tale". Holcot was still read in the sixteenth-century when the Parisian theologian, Jacques Almain, wrote a work engaging Holcot's opinions.
+The commentary on the "Book of Wisdom" was printed in 1480, and, subsequently, went through many editions. An edition of the questions on the Sentences was printed at Lyon in 1497, although it contained a cover letter stating that the manuscripts used to produce this edition were disorderly and unreliable. Unfortunately, this remains the only edition of Holcot’s Sentences available today.
+
+</doc>
+<doc id="9367590" url="https://en.wikipedia.org/wiki?curid=9367590" title="Category:Instrumental musical groups">
+Category:Instrumental musical groups
+
+
+</doc>
+<doc id="9367591" url="https://en.wikipedia.org/wiki?curid=9367591" title="Seafar">
+Seafar
+
+Seafar is an area of the town of Cumbernauld.
+Seafar is south of the M80 motorway (formerly the A80 trunk road) and is bordered by Seafar wood, planted at the time of the construction of the town. The area was the second built in the new town of Cumbernauld, its many streets are named after famous Scottish sports heroes, and writers. It has two local primary schools, St Mary's and Ravenswood Primary.
+Added to that, there is a Kingdom Hall of Jehovah's Witnesses next to St Mary's Primary school and up the hill from one of Cumbernauld's five high schools, Our Lady's High school.
+
+</doc>
+<doc id="9367596" url="https://en.wikipedia.org/wiki?curid=9367596" title="Shlomo Carlebach (scholar)">
+Shlomo Carlebach (scholar)
+
+Shlomo Carlebach (Salomon Peter Carlebach) (b. August 17, 1925 in Hamburg, Germany) -- not to be confused with his cousin Shlomo Carlebach, also a rabbi and a well-known Jewish composer and musician—is a Haredi rabbi and scholar who was chosen to be the mashgiach ruchani ("spiritual advisor" [of students]) of the Yeshiva Rabbi Chaim Berlin located in Brooklyn, in New York City after the departure of the previous "mashgiach ruchani" Rabbi Avigdor Miller. Rabbi Carlebach served as "mashgiach ruchani" of the yeshiva and Kollel Gur Aryeh (its post-graduate division) from 1966 to 1978, when he was succeeded by Rabbi Shimon Groner, one of Rabbi Yitzchok Hutner's trusted disciples.
+His father was Rabbi Dr. Joseph Carlebach, director of the Talmud Torah school at Hamburg (1925–1927), chief rabbi of Altona (1927–36) and the last chief rabbi of Hamburg (1936–1941). His mother was Charlotte Helene Carlebach (née Preuss; 1900-1942). Joseph Carlebach is still held in great honour by the city of Hamburg and its remaining Jewish community. Part of the university campus in Hamburg was named as the "Joseph-Carlebach-Platz" since 1990. Upon his 78th birthday in 2003, a "Joseph-Carlebach-Preis" award was established for Jewish studies, given every two years, by the State University of Hamburg.
+The Jewish community and its leading rabbi were deported 1941 from Hamburg to the Jungfernhof concentration camp near Riga in Latvia. Shlomo's father Rabbi Joseph, his mother Charlotte and his sisters Ruth, Noemi and Sara were murdered in a forest near Riga, Latvia in 1942. Shlomo, being the youngest son, survived the Holocaust suffering four years of internment in nine different concentration camps. His older four sisters and brother were sent to England (his sister Miriam immigrated to Israel at the same time) by their parents and survived the Holocaust and the war.
+Rabbi Carlebach talked with the authors of the book "Die Carlebachs, eine Rabbinerfamilie aus Deutschland " ("The Carlebachs, a Family of Rabbis from Germany", Ephraim-Carlebach-Stiftung[-Foundation] Edit: Dölling & Galitz. Hamburg 1995 ISBN 3-926174-99-4, in German) about his father and the time in the concentration camps. (Some details are in the German Wiki "Konzentrationslager Jungfernhof".) Rabbi Carlebach has also written about this period in a biography of his father, " Ish Yehudi – The Life and Legacy of a Torah Great. Joseph Tzvi Carlebach " (Shearith Joseph Publications, New York 2008)
+After the war Rabbi Carlebach was accepted as a student at the Yeshiva Rabbi Chaim Berlin, where he became one of the closest disciples of its rosh yeshiva Rabbi Yitzchok Hutner. So much so, that Rabbi Carlebach was selected to write the brief welcoming introductions in Rabbi Hutner's works, the "Pachad Yitzchok" where he would sign himself as שלמה בן הרב ר' יוסף צבי הי"ד קרליבך : "Shlomo the son of Rabbi Yosef Tzvi (may God avenge his blood) Carlebach"
+Rabbi Carlebach was serving as a high school teacher of Torah studies and Talmud in the Yeshiva of Eastern Parkway in Brooklyn, when Rabbi Hutner called on him to become the new mashgiach ruchani of the yeshiva following the departure and long tenure of Rabbi Avigdor Miller in that position.
+For most of his tenure Rabbi Carlebach was an extremely successful "mashgiach ruchani" and began to develop a series of lectures that he eventually published, first in pamphlet form and later in a full series that he would call "Maskil Lishlomo".
+Rabbi Hutner had always wanted to move to Israel to establish a new yeshiva and, because he had only one daughter, Rebbetzin Bruria David who had no children of her own who would be going with her father, Rabbi Hutner planned to leave the yeshiva he headed in Brooklyn (Yeshiva Rabbi Chaim Berlin and Kollel Gur Aryeh) to his disciples who were to remain behind. The designated new rosh yeshiva ("dean") was to be Rabbi Aaron Schechter and it was assumed that Rabbi Carlebach would continue as the official "mashgiach ruchani". However, about three years prior to Rabbi Hutner's death in 1980 a serious dispute arose between Rabbi Carlebach and Rabbi Hutner and his disciples. The end of this internal struggle resulted in Rabbi Carlebach being denied access to the yeshiva. However he refused to relinquish the title of "mashgiach ruchani". Rabbi Carlebach attempted to bring the termination of his employment and the manner in which it was done to adjudication with various batei din ("Jewish religious courts") but Rabbi Hutner maintained that he was not subject to such proceedings in this instance; that has been the position of his designated heirs who took complete control of Yeshiva Rabbi Chaim Berlin following Rabbi Hutner's death in 1980.
+Following his departure from his former yeshiva, Rabbi Carlebach set about lecturing at various Beis Yaakov schools and seminaries for young women. His eloquent speaking style won him a wide audience and he began to record and sell recorded tapes of his lectures. However, he began to pour the bulk of his energies into writing his life's work in Hebrew, which was to become the five volumed "Maskil Lishlomo" on the Humash (Pentateuch) that incorporated much of Rabbi Hutner's thought system in the ten volume "Pachad Yitzchok". In recent years, Rabbi Carlebach has dedicated much of his time to writing a biography of his father, " Ish Yehudi – The Life and Legacy of a Torah Great. Joseph Tzvi Carlebach " (Shearith Joseph Publications, New York 2008). He is also working on translating his father's writings into English.
+A number of Rabbi Carlebach's children are Orthodox rabbis. His eldest daughter is Professor Elisheva Carlebach who is the Salo Wittmayer Baron Professor of Jewish history, culture and society at Columbia University. His sister Professor Dr. Miriam Gillis-Carlebach heads the "Joseph Carlebach Institute" of the "Bar-Ilan-University", Ramat Gan (Israel).
+
+</doc>
+<doc id="9367616" url="https://en.wikipedia.org/wiki?curid=9367616" title="Action Man: 1993–2006">
+Action Man: 1993–2006
+
+Action Man was relaunched in 1993 by Hasbro. The initial releases were the US Hall of Fame figures modelled on the 3" GI Joe line-up. This was followed by a 30th anniversary edition modelled after the original 1966 release, but using the GI Joe "Hall of Fame" body, that lacked the articulation, possibility, and attention to scale and proportion of the original figure and accessories. A variety of body types were subsequently offered, in different price ranges. None of the newer bodies have the range of articulation or attention to scale of the vintage figures. This version of the toy tended away from the more militaristic theme in favour of an "extreme sports" theme, and introduced a fantasy terrorist antagonist in the form of . The usual themed toys, stationery and other items have also been marketed.
+The Action Man toy line and comic ended in January 2006 to be replaced by the spin-off TV show and toy line; A.T.O.M. (known in the UK as Action Man: A.T.O.M.).
+In 2009, Hasbro briefly released a new wave of Action Man toys exclusively to Tesco stores however, the toy line has now ended once again.
+New York Comic Convention saw Hasbro release a comic book showing off some upcoming toy lines that Hasbro have been well known for in the past including the new "The Action Man". It is currently un-known when these toys will be released.
+As with the original Action Man releases of 1966, the first re-releases of Action Man in the 90s were simply re-packaged Joes; Duke, Cobra Commander, Stalker and Snake Eyes; in boxes that resembled the standard blue packaging. Shortly thereafter Hasbro International developed packaging unique to the Action Man line; bright orange coloration, and a new Action Man logo.
+The 1990s 12" Action Man was closer in construction to the poor quality imitations of the original line; very limited articulation, with equipment not to scale (see illustration below). The hands could not really grasp any of the accessories. These figures were essentially G.I. Joe Hall of Fame bodies with a different set of head moulds, some of which had "fuzzy" hair. Later examples improved on the articulation, depending on the price point. The figures were marked "©Hasbro International 1993" across the buttocks. Some came with blue shorts, reminiscent of the late 70s–80s body. The articulation of neck, waist, arms and legs varied as mentioned. Some, like Tiger Strike (see below) have rubber legs, no waist, elbow or wrist pivot, and a head that only looks left/right. Even the more articulated versions cannot compare to the range of motion offered by their early predecessors; for example, the knee/ankle joints only pivot up/down; they do not rotate, and the waist does not allow for rotate and "lean" to the extent possible with earlier figures. The feet on all body variants are like Barbie; not to scale with the body. Unfortunately, these bodies are also grossly overweight in comparison, and as a result of this and the small feet, they are much more difficult to pose freestanding. The more articulated bodies were also of a harder plastic, rather than the softer vinyl/rubber used for basic figure limbs that were similar to Barbie's "Ken". Basic figures were available in a variety of configurations such as Tiger Strike and Sport Extreme, as well as deluxe sets such as Sky Dive, CrimeBuster and Raid and Roller Extreme. The more expensive sets contained the more articulated figures.
+A number of vehicles were offered for the 12' figure line, with bold graphics and the signature orange background coloration. Included were the Super Bike, Mission Raft, 4×4 Jeep, Silver Speeder, Racing Car and others. A large quantity of carded accessories/uniform sets were also offered at this time. As with the boxed figures, the first releases were repackaged GI Joe HOF sets, with similar design blue graphics, subsequently replaced with the new orange graphics and new Action Man logo.
+In addition to the three 30th anniversary sets, a number of special edition figures were also released, one of which was the 1996 reproduction football player, in a numbered box. As with others from 1996, this was the extremely limited articulation Hasbro Hall of Fame body, with a flocked hair head sculpt. This item would never have been intended as a toy, but merely a collectable. From 1997 to 2000, Action Man was also released in the uniforms and costumes from six James Bond movies. These included "Thunderball", "You Only Live Twice", "The Spy Who Loved Me", "GoldenEye", "Tomorrow Never Dies", and "The World Is Not Enough".
+In 2006, after the main toy line had ended, a number of sets were released.
+"For a full list of characters please see; List of Action Man characters."
+Many different heroes and villains have starred in the toy line, TV series and comic, some only briefly. The most notable are listed below.
+Dr. X is a mad scientist who is the arch-enemy of Action Man in its line of toys, introduced in the mid-late 1990s.
+In the toy-version plot, Dr X is bent on ruling the entire world and is prepared to kill anyone who stands in his way. He has recruited many villains into his army over the past years such as Plague Locust (from PC game), MAXX (or 'the man with no name') (1999), Tempest (2001), Asazi (Mainframe animated series), Anti-Freeze (2003), No-Face (2004) and Professor Gangrene (1997, 2000, 2002, 2003).
+During the battles with Action Man, Dr X has constantly been defeated and humiliated. However, the evil scientist never seems to give up and each time he comes back to do battle, he grows stronger. However, Action Man always wins the battle and defeats him.
+Dr X over the years has also seen new styles. In 1994 - a rotary, firing shield; In 1995 - a laser eye & exposed brain; In 1996 he had a bio-stomach (toxic gut), in 1997 - a firing hand; in 1998 - a chopper bike, in 1999 - a laughter button, in 2000 - a robotic arm, in 2001 - a bronze arm and ball & chain, in 2002 - a firing missile arm, in 2003 - a titanium arm In 2004/5 a Komodo Dragon and a whole new body.
+There have been several Action Man games released over the years including "Action Man: Destruction X", "Action Man: Raid on Island X" and (PS/PC,2000), (GBC,2001) as well as movie tie-in game (GBA,2004).
+Panini Comics published an Action Man comic which ran for 138 issues until 18 January 2006. It was then surpassed by Action Man: A.T.O.M. Comic. Both comics were published every three weeks. After the cancellation of the Action Man TV Series in 2002, the comic was the only source of official story line for Action Man apart from the films.
+The final editor was Ed Caruana who also edited the A.T.O.M. comic.
+Panini Comics own the Marvel UK licence and Marvel UK had previously been responsible for the creation of an Action Force comic.
+
+</doc>
+<doc id="9367618" url="https://en.wikipedia.org/wiki?curid=9367618" title="File:LuisaPlaque.JPG">
+File:LuisaPlaque.JPG
+
+This is a picture of the plaque at Santa Rosa fortress. The plaque commemorates where Luisa was held and gave birth to a baby girl. The plaque translated into English reads: "Luisa C de Arismendi for her virtue, valour and martyrdom for husband and country. Held captive in this jail at the age of sixteen years old."
+
+</doc>
+<doc id="9367637" url="https://en.wikipedia.org/wiki?curid=9367637" title="Melanitis phedima">
+Melanitis phedima
+
+The Dark Evening Brown ("Melanitis phedima") is a species of butterfly found flying at dusk. The flight of this species is erratic. They are found in South Asia.
+"Ischaemum semisagittatum" and a variety of grasses of the genera "Andropogon", "Cymbopogon", "Pennisetum", "Setaria", "Oplismenus compositus", and "Bambusa arundinacea".
+
+</doc>
+<doc id="9367643" url="https://en.wikipedia.org/wiki?curid=9367643" title="Category:People from Yerevan">
+Category:People from Yerevan
+
+People from Yerevan, Armenia.
+
+</doc>
+<doc id="9367651" url="https://en.wikipedia.org/wiki?curid=9367651" title="Category:Documentary films about business">
+Category:Documentary films about business
+
+Documentary films focusing on business. For biographical documentary films about people in business, please use the sub-category .
+
+</doc>
+<doc id="9367654" url="https://en.wikipedia.org/wiki?curid=9367654" title="Category:United States Department of Labor officials">
+Category:United States Department of Labor officials
+
+
+</doc>
+<doc id="9367655" url="https://en.wikipedia.org/wiki?curid=9367655" title="You Ain't Goin' Nowhere">
+You Ain't Goin' Nowhere
+
+"You Ain't Goin' Nowhere" is a song written by Bob Dylan in 1967 in Woodstock, New York, during the self-imposed exile from public appearances that followed his July 29, 1966 motorcycle accident. A recording of Dylan performing the song in September 1971 was released on the "Bob Dylan's Greatest Hits Vol. II" album in November of that year, marking the first official release of the song. A 1967 recording of the song, performed by Dylan and The Band, was issued in 1975 on the album "The Basement Tapes". The Byrds also recorded a version of the song in 1968 and issued it as a single. The Byrds' version is notable for being the first commercial release of the song, predating Dylan's first release by three years. A later cover by Byrds members Roger McGuinn and Chris Hillman reached the top 10 of the Hot Country Songs charts in 1989. The song has been covered by many artists, including Joan Baez, Unit 4 + 2, Earl Scruggs, Old Crow Medicine Show, Phish, Counting Crows, The Dandy Warhols, Bill and Bonnie Hearne, and Glen Hansard with Markéta Irglová.
+Starting in June 1967 and ending in October 1967, Bob Dylan's writing and recording sessions with The Band (then known as The Hawks) in Woodstock, New York, were the source of many new songs that were circulated as demos by Dylan's publisher for fellow artists to record. "You Ain't Goin' Nowhere" was written and recorded during this period and features lyrics that allude to the singer waiting for his bride to arrive and possibly, a final premarital fling. The original version found on 1975's "The Basement Tapes" album was recorded with The Band (minus Levon Helm who had temporarily left the group at this point) in the basement of their house in West Saugerties, New York, called "Big Pink". A first take recorded during the "Basement Tapes" sessions includes improvised nonsense lyrics such as "Just pick up that oil cloth, cram it in the corn / I don't care if your name is Michael / You're gonna need some boards / Get your lunch, you foreign bib". This alternate take was released in 2014 on "".
+On September 24, 1971, Dylan re-recorded three songs from the "Basement Tapes" sessions for inclusion on his "Greatest Hits Vol. II" album—"You Ain't Goin' Nowhere," "I Shall Be Released," and "Down in the Flood"—with Happy Traum playing bass, banjo and electric guitar, as well as providing vocal harmony. Traum notes that "they were very popular songs ... that [Dylan] wanted to put his own stamp on." The lyrics of this performance of "You Ain't Goin' Nowhere" differed significantly from both the "Basement Tapes" versions, and also played upon a mistaken lyric in The Byrds' cover of three years earlier (see below). The 1971 version was later released on the compilations "The Essential Bob Dylan" (2000) and "Dylan" (2007), although the latter album's liner notes erroneously state that it is the 1967 version.
+The Byrds' recording of "You Ain't Goin' Nowhere" was released as a single on April 2, 1968, some three years prior to any commercial release of the song by Dylan. It was the lead single from The Byrds' 1968 country rock album, "Sweetheart of the Rodeo", and reached number 74 on the "Bllboard" Hot 100 chart and number 45 on the UK Singles Chart. Along with the then current line-up of The Byrds, the song also features musical contributions from session musician Lloyd Green on pedal steel guitar. Although it is not as famous as their cover version of "Mr. Tambourine Man", The Byrds' recording of "You Ain't Goin' Nowhere" is often considered by critics to be the band's best Dylan cover.
+The song was selected as a suitable cover by The Byrds after their record label, Columbia Records, sent them some demos from Dylan's Woodstock sessions. Included among these demos were the songs "You Ain't Goin' Nowhere" and "Nothing Was Delivered", both of which were recorded by The Byrds in March 1968, during the Nashville recording sessions for "Sweetheart of the Rodeo". Despite the change in musical style that the country-influenced "Sweetheart of the Rodeo" album represented for The Byrds, the inclusion of two Dylan covers on the album forged a link with their previous folk rock incarnation, when Dylan's material had been a mainstay of their repertoire.
+The Byrds' recording of the song caused a minor controversy between the band and its author. Dylan's original demo of "You Ain't Goin' Nowhere" contained the lyric "Pick up your money, pack up your tent", which was mistakenly altered in The Byrds' version, by guitarist and singer Roger McGuinn, to "Pack up your money, pick up your tent". Dylan expressed mock-annoyance at this lyric change in his 1971 recording of the song, singing "Pack up your money, put up your tent McGuinn/You ain't goin' nowhere." McGuinn replied in 1989 on a new recording of the song included on the Nitty Gritty Dirt Band's "" album, adding the word "Dylan" after the same "Pack up your money, pick up your tent" lyric. McGuinn and the Nitty Gritty Dirt Band's 1989 recording of the song, which also featured The Byrds' former bass player Chris Hillman, was released as a single and peaked at number six on the "Billboard" Hot Country Singles chart in 1989, as well as number eleven on the Canadian country music charts published by "RPM". In spite of the involvement of the Nitty Gritty Dirt Band, the single release was credited to McGuinn and Hillman alone.
+After its appearance on "Sweetheart of the Rodeo", the song would go on to become a staple of The Byrds' live concert repertoire, until their final disbandment in 1973. The Byrds also chose to re-record "You Ain't Goin' Nowhere" in 1971 with Earl Scruggs, as part of the "Earl Scruggs, His Family and Friends" television special, and this version was included on the program's accompanying soundtrack album. The song was also performed live by a reformed line-up of The Byrds featuring Roger McGuinn, David Crosby, and Chris Hillman in January 1989. McGuinn continues to perform the song in his solo concerts and consequently it appears on his 2007 album, "Live from Spain".
+In addition to its appearance on the "Sweetheart of the Rodeo" album, The Byrds' original recording of "You Ain't Goin' Nowhere" also appears on several of the band's compilations, including ', "History of The Byrds", "The Byrds Play Dylan", ', "The Byrds", and "There Is a Season". Live performances of the song are included on the expanded edition of The Byrds' "(Untitled)" album and on "Live at Royal Albert Hall 1971".
+The British beat group Unit 4 + 2 released a recording of "You Ain't Goin' Nowhere" as a single in 1968 but it suffered poor sales as a result of the version released by The Byrds and consequently it did not chart. Joan Baez included a gender-switched version of the song, in which she sings "Tomorrow's the day my man's gonna come", on her 1968 album of Dylan covers, "Any Day Now". Australian band The Flying Circus included this song on their self-titled debut album released in August 1969.
+Roots rock quartet The Rave-Ups covered the song on their 1985 album, "Town and Country". Shawn Colvin, Mary Chapin Carpenter, and Rosanne Cash also performed the song at Madison Square Garden in 1992, for eventual release on the Bob Dylan tribute album "The 30th Anniversary Concert Celebration".
+Phish covered the song during their July 30, 2003 concert at the Tweeter Center at the Waterfront in Camden, New Jersey. This is the only time that Phish has performed the song, coming in the show before their IT music festival in Maine (particular emphasis was put on the lyric "We'll climb that hill, no matter how steep...when we get up to it.")
+The e Brothers covered "You Ain't Goin' Nowhere" on their 1998 live album, "Marquee Mark" and Counting Crows recorded the song as a bonus track on their "Hard Candy" album in 2002 as well as performing it live with Augustana. Maria Muldaur recorded the song, with slightly altered lyrics, on her 2006 "Heart of Mine: Maria Muldaur Sings Love Songs of Bob Dylan" album and Marty Raybon, former vocalist of Shenandoah, also covered the song on his 2006 album, "When the Sand Runs Out".
+Glen Hansard and Markéta Irglová recorded the song for the soundtrack album to Todd Haynes' Dylan biopic, "I'm Not There", using the lyrics from Dylan's 1971 version, including the reference to Roger McGuinn. The Dandy Warhols have covered the song on the 2009 digital download edition of their album "The Dandy Warhols Are Sound" and for their September 1, 2011 Daytrotter session. Actor Oscar Isaac (with Kate Mara and Chad Fischer) performed a version of the song in the 2011 film 10 Years, which also appeared on the film's soundtrack. In 2012, Brett Dennen released a version of "You Ain't Goin' Nowhere" on the "" album.
+Garth Brooks for the 2013 "The Melting Pot" album in the "" compilation.
+
+</doc>
+<doc id="9367657" url="https://en.wikipedia.org/wiki?curid=9367657" title="Mildmay Monarchs">
+Mildmay Monarchs
+
+The Mildmay Monarchs were a senior hockey team based out of Mildmay, Ontario, Canada. They played in the Western Ontario Athletic Association Senior Hockey League.
+The Monarchs, who played in the WOAA from 2003–2007, never won a WOAA Championship, and no previous Mildmay team has ever been WOAA champions either.
+Mildmay's teams has won at least 15 Ontario Hockey Association and Ontario Minor Hockey Association championships since 1955.
+The First Monarchs were formed in 1946, and over the years there have been many different versions of the Mildmay Monarchs.
+Mildmay finished in 7th place in the North Division with a 6-16-2 record. The Monarchs then faced off against the Wingham Bulls in the opening round of the "A" playoffs, and were swept in 4 games, ending their season.
+The Monarchs intended to ice a team for the 2007-08 season, and were included when the schedule was made, however, just before the season began, the team announced they were folding due to a lack of players.
+"Note: GP = Games played, W = Wins, L = Losses, T= Tie, OTL = Overtime Losses, Pts = Points, GF = Goals for, GA = Goals against"
+"More information will be added as more becomes available"
+
+</doc>
+<doc id="9367658" url="https://en.wikipedia.org/wiki?curid=9367658" title="Wikipedia:Articles for deletion/Exercise Northstar V">
+Wikipedia:Articles for deletion/Exercise Northstar V
+
+
+</doc>
+<doc id="9367660" url="https://en.wikipedia.org/wiki?curid=9367660" title="Wikipedia:Articles for deletion/Ladle (metallurgy)">
+Wikipedia:Articles for deletion/Ladle (metallurgy)
+
+
+</doc>
+<doc id="9367663" url="https://en.wikipedia.org/wiki?curid=9367663" title="Philip L. Quinn">
+Philip L. Quinn
+
+Philip L. Quinn (June 22, 1940 – November 13, 2004) was a philosopher and theologian. He graduated from Georgetown University in 1962, and went on to earn a master's degree in physics from the University of Delaware in 1966. He then attended the University of Pittsburgh, where he received his master's and doctoral degrees in philosophy. Quinn joined the faculty of Brown University. At Brown, he was very popular, and taught courses in Philosophy of Physics, Ethics, and related fields. In 1985, he assumed a position as the John A. O'Brien Professor of Philosophy at the University of Notre Dame. Quinn served for many years as President of the Central Division of the American Philosophical Association.
+In March 2010, the Philip L. Quinn Fellowship was created at the National Humanities Center. The fellowship, endowed by the executors of Philip Quinn's estate, will be awarded annually in philosophy, preferably supporting young women in the early stages of their scholarly careers.
+
+</doc>
+<doc id="9367667" url="https://en.wikipedia.org/wiki?curid=9367667" title="Category:The Goodies (TV series)">
+Category:The Goodies (TV series)
+
+
+</doc>
+<doc id="9367677" url="https://en.wikipedia.org/wiki?curid=9367677" title="Byrd in Flight">
+Byrd in Flight
+
+Byrd in Flight is an album by American trumpeter Donald Byrd recorded in 1960 and released on the Blue Note label as BLP 4048 and BST 84048 featuring Byrd with Jackie McLean or Hank Mobley, Duke Pearson, Doug Watkins or Reggie Workman and Lex Humphries.
+The Allmusic review by Michael G. Nastos awarded the album 4 stars and stated "By the time of this fourth Blue Note album by trumpeter Donald Byrd, it became clear that his playing was becoming stronger with the passing of time".
+
+</doc>
+<doc id="9367685" url="https://en.wikipedia.org/wiki?curid=9367685" title="Wikipedia:Articles for deletion/Edward Marcus">
+Wikipedia:Articles for deletion/Edward Marcus
+
+
+</doc>
+<doc id="9367687" url="https://en.wikipedia.org/wiki?curid=9367687" title="Health Care Service Corporation">
+Health Care Service Corporation
+
+Health Care Service Corporation (HCSC) is the largest customer-owned health insurance company in the United States, and an independent licensee of the Blue Cross and Blue Shield Association It also deals in life insurance products and is structured as a mutual legal reserve insurer. It concentrates its operations in Illinois and Texas. As the 4th largest health insurer in the US overall, it employs more than 22,000 people and serves nearly 15 million members.
+In 1936, a group of Chicago civic leaders, hospital officials and physicians pooled their own resources and launched what was initially called the Chicago Plan for Hospital Care. The company's first health insurance policy became effective on January 21, 1937.
+The company, incorporated as Hospital Service Corporation, enrolled 36,000 members in the first six months of operations. The company adopted the Blue Cross symbol in 1939 and the Blue Shield symbol in 1947.
+The Blue Cross Plan for hospital services and the Blue Shield Plan for physician services operated separately until 1975 when they were merged as Health Care Service Corporation. By 1982, all the smaller Blue Cross plans in Illinois were also merged with the Chicago-based plan, and the company operated as Blue Cross and Blue Shield of Illinois. Other Blue Cross and Blue Shield plans joined HCSC: Texas in 1998; New Mexico in 2001; Oklahoma in 2005; and Montana in 2013.
+HCSC is an independent licensee of the Blue Cross and Blue Shield Association. It structures itself as a particular type of mutual insurance, a mutual legal reserve insurer.
+HCSC's operations are concentrated in Illinois and Texas, which accounted for 84% of total revenue through the first nine months of 2014, followed by Oklahoma (9% of revenue). HCSC markets itself as a Blues plan, and its divisions and subsidiaries are Blue Cross and Blue Shield of Illinois, Blue Cross and Blue Shield of Texas, Blue Cross and Blue Shield of Montana, Blue Cross and Blue Shield of New Mexico, Blue Cross and Blue Shield of Oklahoma, and Dearborn National.
+HCSC was the country's largest nonpublic health insurer and the fourth-largest health insurer overall, with more than 4 million members.
+In 2010 HCSC nearly doubled its income to $1.09 billion, and began "a streak of billion-dollar profits for 4 straight years".
+Between 2009 and 2013, HCSC's five-year average of return on capital was 10.5%. During 2014 HCSC profits decreased "from medical losses and expenses associated with the company's aggressive addition of members sourced from ACA exchanges". Yet in 2015, Fitch Ratings assessed its financial strength still at 'A+' and gave it an 'A' for likelihood of default and senior unsecured rating.
+Finch stated that "lack of geographic diversification has historically kept HCSC out of the 'AA' rating category and that HCSC would be downgraded if it were no longer to market itself as a Blues plan.
+
+</doc>
+<doc id="9367703" url="https://en.wikipedia.org/wiki?curid=9367703" title="Wikipedia:Peer review/Henri Toivonen/archive1">
+Wikipedia:Peer review/Henri Toivonen/archive1
+
+I have worked on this article for quite some time now. Considering the amount of information available, I feel it is comprehensive and well-referenced. The biggest fault of it is probably the fact that it is completely written by a non-native English speaker. I have tried to achieve better prose and more neutral wording, but am unable to improve it further. I originally started working on the article with cleanup and referencing as the aim, but now I would like to see it become the first GA/FA related to rallying and the World Rally Championship. Any suggestions are welcome. Thanks, 16:35, 7 February 2007 (UTC)
+
+</doc>
+<doc id="9367704" url="https://en.wikipedia.org/wiki?curid=9367704" title="Kharkhorin Airport">
+Kharkhorin Airport
+
+Kharkhorin Airport is a public airport located in Kharkhorin, a sum (district) center in the Övörkhangai Province of Mongolia.
+The airport is located 4 km north of the town. There is a small passenger terminal building at the northeast side of apron but it is reported that there are virtually no passenger or cargo handling facilities.
+
+</doc>
+<doc id="9367708" url="https://en.wikipedia.org/wiki?curid=9367708" title="Category:Currencies of Lithuania">
+Category:Currencies of Lithuania
+
+
+</doc>
+<doc id="9367715" url="https://en.wikipedia.org/wiki?curid=9367715" title="The Donays">
+The Donays
+
+The Donays were a 1960s R&B girl-group out of Hamtramck, Michigan. In 1961 the group recorded Richard P. Drapkin (aka Ricky Dee) song "Devil in His Heart" for Detroit's Correc-tone Records. Possibly produced in Detroit by Richard "Popcorn" Wylie, it and "Bad Boy" may be the only Donays recordings.
+In August, 1962 the recording was released as the B-side of "Bad Boy" on larger New York label Brent. The record was discovered by George Harrison and recorded by the Beatles in 1963 retitled as "Devil in Her Heart".
+The lead singer of the group was Yvonne Vernee Allen. A decade later, Motown group The Elgins (which broke up in 1967) reunited to tour Britain in 1971 after it enjoyed two unexpected UK Top 20 hits. Yvonne, previously a session vocalist, took the place of former lead vocalist Saundra Mallett Edwards. The reunion sputtered. Yvonne continued singing into the 1990s, working for Ian Levine's Motor City label.
+
+</doc>
+<doc id="9367719" url="https://en.wikipedia.org/wiki?curid=9367719" title="Hertsön (district)">
+Hertsön (district)
+
+Hertsön is a residential area in Luleå, Sweden. It had 5,436 inhabitants in 2010, making it one of the largest districts in Luleå.
+The district was built in the 1970s as part of the Million Programme, due to the planned construction of a new steel mill (Stålverk 80), which was expected to give the city a large increase in population. As the plans of the new steel mill were binned, following the victory of the right-wing coalition in the general election of 1976, there have periodically been many empty apartments in the area.
+
+</doc>
+<doc id="9367724" url="https://en.wikipedia.org/wiki?curid=9367724" title="Wikipedia:Articles for deletion/Colony (CMS)">
+Wikipedia:Articles for deletion/Colony (CMS)
+
+
+</doc>
+<doc id="9367740" url="https://en.wikipedia.org/wiki?curid=9367740" title="Wisdom (song)">
+Wisdom (song)
+
+"Wisdom" was the third single released by David Gray, released on 5 July 1993, and taken from his debut album "A Century Ends". The single and its B-sides were later included on the 2001 compilation "The EPs 1992–1994".
+
+</doc>
+<doc id="9367749" url="https://en.wikipedia.org/wiki?curid=9367749" title="Vindula erota">
+Vindula erota
+
+The Common Cruiser ("Vindula erota") is a species of nymphalid butterfly found in forested areas of tropical South Asia and Southeast Asia.
+Male Upperside bright orange-yellow. Fore wing olivaceous brown at base with the following black markings: three short sinuous transverse lines across the cell; the disco-cellulars with an inner and outer slender line; a lunular inner discal broken transverse line, a zigzag outer discal broken transverse line, a transverse inwardly curved series of postdiscal spots, those in interspaces 5 and 6 the largest, and an inner and an outer subterminal conspicuous zigzag narrow band. Hind wing with inner and outer discal black lines and inner and outer subterminal narrow black bands as on the fore wing, but the outer discal transverse line faint and ill-defined posteriorly; the space anteriorly between the two discal lines much paler yellow than the general ground-colour; in addition there is a dark straight postdiscal diffuse fascia with a superposed ocellus in interspaces 2 and 5 respectively, and a lilac spot at the tornal angle. Underside similar, the basal area enclosed by the inner discal line suffused with cinnabar-red, as is also the outer zigzag transverse ill-defined discal line. Forewing with, in addition, two cream-white preapical spots and a purplish suffusion between the two subterminal lines, the inner line straight, not zigzag; interspace 1a, and 1 posteriorly from base to inner subterminal line, paler than tho ground-colour. Hind wing with some additional transverse linear and loop-like slender black markings at base; a conspicuous, straight, transverse, narrow dark ferruginous postdiscal band, and a pale purplish suffusion beyond it between veins 2 and 5, not reaching the termen. Antennae dark ferruginous; head, thorax and abdomen olivaceous orange ; beneath, the palpi, thorax and abdomen ochraceous.
+Female upperside dull brown, the basal area of both fore and hind wings, on the inner side of a vertical transverse line from just beyond apex of cell in fore wing to vein 2 on the hind wing, suffused with olivaceous green; the terminal margin, broadly, of the hind wing suffused with reddish ochraceous ; a broad, posteriorly narrowing, discal white band inclined obliquely inwards from below the costa of the fore wing to vein 2 on the hind wing, conspicuously interrupted and crossed by the dark veins on the fore wing. Fore wing with the following dusky brownish-black markings: three short transverse sinuous lines crossing the cell; a sinuous line on either side of the discocellulars; a broad line, interrupted by the veins, defining the inner side of the white discal band; a zigzag medial transverse line and a transverse series of very diffuse spots traversing the same band, followed by a postdiscal narrow band and a zigzag subterminal line; finally, a conspicuous white preapical spot in interspace 7. Hind wing: a dusky-brown zigzag line along the outer margin of the white discal band; a diffuse broad postdiscal transverse shading, bearing a white-centred, dusky-brown, ochraceous-ringed ocellus, in interspaces 2 and 5 respectively, followed by an inner subterminal lunular band and an outer subterminal zigzag line of brownish black; the abdominal fold ochraceous.
+Underside very similar to that in the male, but differs as follows: ground-colour ochraceous yellow, the basal area on both fore and hind wings darker ochraceous without any tinge of cinnabar-red; all the markings similar as to form to those in the male, but chestnut-brown ; the ocelli on the hind wing larger, but otherwise similar. Antennae dark ochraceous, turning to brownish black on the apical half; palpi ochraceous; head, thorax and abdomen olivaceous green; beneath, the palpi, thorax and abdomen pale ochraceous.
+Smaller than the wet-season form, the tail at apex of vein 4 in the hind wing very much shorter as a rule.
+Male: Upper and undersides similar to those in the wet-season form, but the groundcolour very much paler; on the underside entirely suffused with pale cinnabar-red ; the markings smaller, often more or less obsolescent, always more faintly defined; above, the markings are dusky brownish black, beneath pale chestnut-red; the pale purplish suffusion on the terminal margins of both fore and hind wings on the underside, so conspicuous in the wet-season form, entirely wanting.
+Female: Differs very remarkably from the wet-season form. Upperside: fore and hind wings with a very broad pale ochraceous-white discal band from costa of fore wing to the dorsal margin just above the tornus on the hind wing, narrowing posteriorly on the latter wing. Fore wing: basal area olivaceous green on the inner side of the discal band, as in the wet-season form, but the space between the outer two of the three dusky transverse lines crossing the cell ochraceous: the medial zigzag line and the series of diffuse spots traversing the discal band very ill-defined. Hind wing: basal area ochraceous, owing to the colour of the underside showing through by transparency; a very pale shading of olivaceous green at base of cell; terminal portion of the wing beyond the discal band bright ochraceous ; the postdiscal ocelli and the inner and outer subterminal dark lines as in the wet-season form.
+Underside: ground-colour pale yellow; the basal area on both fore and hind wings suffused with cinnabar-red; the markings similar to those in the wet-season form, but very much fainter and paler. Antennae ochraceous, palpi and a line behind the eyes cinnabar-red; head, thorax and abdomen olivaceous green, beneath bright ochraceous.
+
+</doc>
+<doc id="9367755" url="https://en.wikipedia.org/wiki?curid=9367755" title="Bonavista Peninsula">
+Bonavista Peninsula
+
+The Bonavista Peninsula is a large peninsula on the east coast of the island of Newfoundland in the Canadian province of Newfoundland and Labrador.
+The peninsula runs 85 km northeast from a 19 km wide isthmus and measures between 15–40 km in width. It separates Bonavista Bay in the north from Trinity Bay to the south.
+Starting at the Trinity Bay side it commences at the northeastern part of the bay at Shoal Harbour, immediately north of Clarenville. Continuing east the peninsula's south shore includes the communities of Trinity and Catalina ending at its easternmost tip at Cape Bonavista. The north shore of the peninsula includes the communities of Bonavista, Summerville and Musgravetown to Port Blandford.
+The highways servicing the Bonavista Peninsula are Route 230, Route 233, Route 235, Route 237, Route 238, and many local roads. The Newfoundland Railway also had a branch built from Clarenville to Bonavista, later called the Bonavista Subdivision by CN Rail's Terra Transport division. It was abandoned in 1984, four years before the railway's mainline was abandoned across the island.
+This peninsula contains some of the oldest settlements on the island of Newfoundland, particularly the towns of Bonavista and Trinity. English explorer John Cabot is reported to have landed at Cape Bonavista in 1497 claiming this part of the New World for the King of England.
+The communities and towns on the Bonavista Peninsula are in a slow decline as the importance of the fishing industry decreases. Geographically isolated from major population centres, the provincial government has been attempting to diversify the local economy; most notably in tourism where the region is blessed with spectacular landscapes adjacent to the ocean.
+The following is a list of the incorporated towns on the Bonavista Peninsula by population in the 2011 Canadian Census.
+
+</doc>
+<doc id="9367758" url="https://en.wikipedia.org/wiki?curid=9367758" title="Bharati Vidyapeeth's College of Engineering">
+Bharati Vidyapeeth's College of Engineering
+
+Bharati Vidyapeeth's College of Engineering (BVCOE) is an engineering college in Paschim Vihar, New Delhi, India. It is approved by All India Council for Technical Education (AICTE), Ministry of Human Resource Development, Government of India. The college was established in year 1999. Its parent body is Bharati Vidyapeeth University,a Deemed University in Pune, Maharashtra. It is affiliated to Guru Gobind Singh Indraprastha University, Delhi.
+The flagship program of the college is Bachelor of Technology Undergraduate Degree.
+As of 2016, the college is being headed by Dr. Dharmender Saini.
+The semi-circular glass building houses most of the engineering college. A red brick building houses some laboratories and the Administrative department. The Technology department and administrative block are in a single building with four blocks (A,B,C and D). The building houses classrooms, laboratories, a library, projector rooms and rooms for other academic activities. An auditorium is shared with the BVIMR, another college of the same parent body in the same campus but in a different building.
+The college has a playground, a Badminton court, a Volleyball court, a Recreation centre (Food Court), a Cricket pitch in the playground and a cemented basketball court. Indoor sports include Chess and Table Tennis. A sports week is held every year which includes inter stream events in all the mentioned sports activities.
+The college building includes a Research and Development centre.
+The total intake of students for a year is 420 students, for the morning programmes.
+An additional 3-8 students per class are admitted through the lateral entry scheme for diploma students in the second year of a four-year batch.
+Students are admitted on the basis of the merit in the All India Common Entrance Test (CET) organized by GGSIPU, Delhi and the counseling session is conducted at GGSIPU, Delhi.
+Out of total number of seats, the 90% seats are filled in by the Centralized Counselling to be conducted by GGSIP University based on its CET.
+10% seats are reserved for Management Category. Admission to these 10% Reserved Management Category Seats is done by the Management on merit as per the Instructions of the Govt. of NCT, Delhi and GGSIP University.
+The R&D cell has been involved in projects including the EU Asia-Link project.
+Major research areas include Value-added Services in Communication Systems, Tsunami: Radio Alert System, Sustainable Built Environment, Image Processing, Nano Technology and application of IT to problems in energy and environment.Other fields of research include Embedded Systems and VLSI Technology.
+BVPIEEE(Institute of Electrical and Electronics Engineers), BVPISTE(Indian Society For Technical Education), BVP-GTUG(Google Technology User Group),BVP-ISA(International Society of Automation), BVP Inc. (a business Group) and BVPLUG(Linux User Group) are the technical and business groups as of 2013, involved in various co-curricular activities in the college.
+XTASY, is the Cultural festival of the college, held biennially in the even semester. It is organised by all the students in general.
+Fervour is an annual fest organised in the even semester by the members of BVPIEEE, IEEE(Institute of Electrical and Electronics Engineers) chapter of the college .
+Evoluzione is an annual fest organised by the members of BVPISTE, ISTE(Indian Society for Technical Education) chapter of the college.
+Chaos is an annual festival organised by the GTUG (Google Technology User Group) members of the college.
+Corprova is organised by the only business group in the college, the BVP Inc. It is an annual festival held in the even semester.
+The college students participate in various social work activities including Project Akshar, Leaders for Tomorrow, (an NGO initiative), among others. Various collection drives and other social events are organized by BVPISTE in association with NGO Protsahan and NGO Aspiring for Achievement Foundation (AAF).
+Groups such as BVPMOSC (Bharati Vidyapeeth's Mozilla Open Source Club, working under BVPISTE, now BVP Firefox Club), BVPLUG (Bharati Vidyapeeth's Linux User Group) and GDG (Google Developers Group) are responsible for the promotion of open source software technologies in the college.
+
+</doc>
+<doc id="9367759" url="https://en.wikipedia.org/wiki?curid=9367759" title="University Alliance">
+University Alliance
+
+University Alliance is a network of British universities which was formed in 2006, adopting the name in 2007. University Alliance is a group of 'business engaged' universities that claim to drive innovation and enterprise growth through research and teaching.
+It covers 20% of all UK students including a quarter of all undergraduates on STEM courses. It accounts for 26% of the UK’s world-leading and internationally excellent (3* & 4*) research in general engineering.
+The association is headed by the Chairman (Professor Steven West), the Deputy Chair (Professor Mary Stuart) and the Treasurer (Edward Peck) who are elected and serve in office for a period of three years. Operational running on a daily business is conducted and overseen by the Chief Executive (Maddalaine Ansell).
+
+</doc>
+<doc id="9367761" url="https://en.wikipedia.org/wiki?curid=9367761" title="Entertainment in the 16th century">
+Entertainment in the 16th century
+
+Entertainment in the 16th century included art, music, theatre, sports, parties, fighting animals, as well as public punishments such as the stocks and even executions.
+While the 16th century and early 17th century squarely fall into the Renaissance period in Europe, that period was not only one of scientific and cultural advance, but also involved the development of changing forms of entertainment – both for the masses and for the elite.
+Despite the great breadth of advancements in the arts during this time, the economic conditions of this period affected the types of entertainment available. There were three classes in society: A wealthy nobility, a merchant class, and the peasantry, who were typically poor.
+The nobility could commission artisans to entertain them with works of art, music and theater (Kareti, 1997). They would also enjoy or participate in the sports of fencing, falconry, horse riding and hunting; they enjoyed extravagant parties and dances, attended the opera house, and had the best seats in the theater. At that time Cricket was also a game associated with the nobility. In 1563, Lawrence Humphrey praised the five classic sports of Greece for the nobility – "whirling, leaping, casting the darte, wrestling, running" and derided "dauncing, fayninge to instrumentes, playe at dise, chesse, or tennes."
+The middle class of merchants, wrights, inn keepers and the like, would occasionally enjoy the fine arts, for example the theater. Blood sports were popular – including bear baiting, bull baiting, dog or cock fights and the like. Travelling troupes of actors entertained the masses. Enterprising bards would settle and build theaters – such as William Shakespeare’s Globe Theater (The Old Globe Theater History, 2005) in London.
+The poor could rarely afford the theater, generally having to stand as groundlings. Executions were seen as a form of entertainment (Alchin, 2005), as was attending public humiliations in the stocks. Another popular public event with spectators, was the trial of witches by use of water trial.(Lambert, 2007).
+
+</doc>
+<doc id="9367774" url="https://en.wikipedia.org/wiki?curid=9367774" title="Copenhagen School (international relations)">
+Copenhagen School (international relations)
+
+The Copenhagen School of security studies is a school of academic thought with its origins in international relations theorist Barry Buzan's book ", first published in 1983. Theorists associated with the school include Barry Buzan, Ole Wæver and Jaap de Wilde. Many of the school's members worked at the Copenhagen Peace Research Institute.
+The primary book of the Copenhagen School is ", written by Buzan, Wæver and de Wilde.
+Bill McSweeney is generally credited with coining the term 'Copenhagen School'.
+The concept of 'sectors' concerns the different arenas where we speak of security. The list of sectors is primarily an analytical tool created to spot different dynamics. In "", the authors list the following sectors: military/state, political, societal, economic and environmental. As such, CS theory can be regarded as 'widening' traditional materialist security studies by looking at security in these 'new' sectors.
+The concept of regional security complexes covers how security is clustered in geographically shaped regions. Security concerns do not travel well over distances and threats are therefore most likely to occur in the region. The security of each actor in a region interacts with the security of the other actors. There is often intense security interdependence within a region, but not between regions, which is what defines a region and what makes regional security an interesting area of study. Insulator states sometimes isolate regions, such as Afghanistan's location between the Middle East and South Asia. Insulators mark boundaries of indifference, where security dynamics stand back to back. They contrast with the traditional idea of 'buffer states' which are located at points where security dynamics are intense (e.g. Belgium between Germany and France).
+Regional Security Complex Theory should not be confused with Regionalism, a subset of IR from the 1970s concerned mostly with regional integration. For more on regional security, see Buzan's "Regions and Powers."
+, and the one that has generated the most literature. It is argued that 'security' is a speech act with distinct consequences in the context over international politics. By talking security an actor tries to move a topic away from politics and into an area of security concerns thereby legitimating extraordinary means against the socially constructed threat. Instead securitization of a subject depends on an audience accepting the securitization speech act.
+Some of the most detailed books on the subject are:
+A criticism that has been advanced against the Copenhagen School is that it is a eurocentric approach to security.
+
+</doc>
+<doc id="9367788" url="https://en.wikipedia.org/wiki?curid=9367788" title="Lindsey Oil Refinery">
+Lindsey Oil Refinery
+
+Lindsey Oil Refinery is an oil refinery in North Killingholme, Lincolnshire, England owned by Total S.A.. It lies to the north of the Humber Refinery, owned by rival oil company Phillips 66, and the railway line to Immingham Docks. Immingham Power Station, owned by VPI Immingham, provides the electricity and heat for the fractionation processes.
+The refinery entered service in May 1968 as a joint project between Total and Fina and currently employs a permanent staff of around 500, as well as several hundred contractors on site, rising to up to several thousand during major turnaround and maintenance projects. It is named after the former Lindsey pre-1974 local government area of Lincolnshire. In 1999, Total took full control of the plant, when it bought Fina.
+It processes approximately 10,000,000 tons of crude oil per year, or 200,000 barrels per day via two pipelines. This makes Lindsey Britain's third largest oil refinery. It produces around 35 types of product.
+Crude oil is imported via two pipelines, connecting the 1,000-metre jetty five miles away at Immingham Dock, to the refinery.
+In the 1980s, a fluid catalytic cracker, an alkylation unit, a visbreaker, and an MTBE (Methyl tert-butyl ether) unit (for high octane petrol) were added.
+In 2007, a distillate hydrotreater (HDS) was built. A hydrogen production unit (a methane steam reformer for the hydrotreater process) is being built, for completion in 2009. The new plant will provide ultra-low sulfur diesel and mean different types of crude oil can be processed, that can be made in a conventional catalytic cracker or hydrocracker. It was built from June 2008 – June 2009 by Jacobs Engineering.
+On 28 January 2009, approximately 800 of Lindsey Oil Refinery's local contractors went on strike following the appointment by the Italian construction contractor IREM of several hundred European (mainly Italian and Portuguese) contractors on the site at a time of high unemployment in the local and global economy.
+Subsequently sympathy walkouts at other UK petroleum, power and chemical sites took place. 700 workers were sacked at the plant in June 2009, resulting in further worker walkouts at other UK sites. Negotiations led to the reinstatement of 647 workers at the end of June 2009.
+On Tuesday 29 June 2010, an explosion and subsequent fire broke out at the plant, killing one 24-year-old worker Robert Greenacre and injuring others. This originated beneath a Vacuum Distillation column at a steam out point where maintenance was being carried out. Total reported that firefighters had found traces of asbestos in the refinery's crude oil distillation unit three days after the initial explosion.
+The refinery's presence causes a considerable amount of traffic to pass through the village of North Killingholme at the time of work shifts commencing and ending. This has caused some disputes with the refinery's neighbouring community.
+In December 2004, Total were fined £12,500 for allowing 60,000 litres of crude oil to leak into the Humber estuary.
+
+</doc>
+<doc id="9367800" url="https://en.wikipedia.org/wiki?curid=9367800" title="Wikipedia:Bots/Requests for approval/DumbBOT 7">
+Wikipedia:Bots/Requests for approval/DumbBOT 7
+
+
+</doc>
+<doc id="9367808" url="https://en.wikipedia.org/wiki?curid=9367808" title="Thomas Ormiston">
+Thomas Ormiston
+
+Thomas Ormiston (29 September 1878 – 15 January 1937) was a Scottish Unionist Party Member of Parliament (MP) who represented the Motherwell constituency from 1931 to 1935.
+
+</doc>
+<doc id="9367809" url="https://en.wikipedia.org/wiki?curid=9367809" title="Christine Andreas">
+Christine Andreas
+
+Christine Andreas (born October 1, 1951) is an American broadway actress and singer.
+Andreas was born in Camden, New Jersey. She graduated from Suffern High School, class of 1969, in Suffern, NY. She was voted by her fellow Seniors best female actor and best female musician. The yearbook photo for the latter depicts Andreas facetiously playing a tuba.
+She made her Broadway debut in a 1975 revival of "Angel Street". The following year she was cast as Eliza Doolittle in the 20th Anniversary production of "My Fair Lady", for which she received the Theatre World Award. Additional theatre credits include "Oklahoma!" (Tony Award nomination for Best Actress in a Musical), "On Your Toes" (Tony nomination for Best Featured Actress in a Musical), "The Scarlet Pimpernel", "Words & Music with Sammy Cahn", "Rags", "Pal Joey" (Prince Music Theater, Barrymore Award for Outstanding Leading Actress in a Musical), and "Legs Diamond". She also starred in the Broadway-bound and derailed Erte production of "Stardust".
+She spent 2007 touring the US as Margaret Johnson in "The Light in the Piazza". In 2010, she portrayed the role of Jacqueline in the new Broadway production of "La Cage Aux Folles", which opened April 18, 2010. The show was a transfer from London's West End and won the 2009 Olivier Award for Best Musical Revival.
+"La Cage aux Folles" also won three 2010 Tony Awards (Best Revival of a Musical, Best Leading Actor in a Musical and Best Direction of a Musical).
+"Tartuffe" (Kennedy Center), "Twelfth Night" (Alaska Rep), "Sarah and Abraham" (George St.), "Promises, Promises".
+Ms. Andreas starred as Judy Garland in "", the stage premiere of John Meyer's 1983 book about his time with the iconic performer, which will play the Adirondack Theatre Festival this summer. Also PS Classics released a new CD of Christine's latest show, "Bemused". The expected release date was July 2013.
+Collaboration with composer Martin Silvestri led to the U.S. premiere and London production of "The Fields of Ambrosia".
+Andreas' television appearances include "The Cosby Show", "Another World", "PBS - Musical Comedy Tonite" and "". She portrayed Ava Gardner in the made-for-TV movie "Mia, Child of Hollywood".
+She has performed her cabaret act in the Café Carlyle and the Algonquin Hotel's Oak Room and Carnegie Hall in New York City and in the Catalina Grill in Los Angeles, and has appeared in concert in London, Paris, Rome and at The White House. Ms. Andreas recently performed her new show "Bemused" at 54 Below. She will be giving a concert at the Kupferberg Center for the Arts at Queens College, NY based on her most recent recording Love is Good in Feb. 2014.
+Best Actress in a Musical "My Fair Lady";
+Best Actress in a Musical "Oklahoma!";
+Best Featured Actress in a Musical "On Your Toes";
+Outstanding Leading Actress in a Musical "Pal Joey";
+Best Actress in a Musical "The Light in the Piazza".
+Solo recordings include
+Cast recordings include
+Other related recordings
+"Source: Official Site "
+She is married to composer and musician Martin Silvestri. She has one son, Mac. Diagnosed with pervasive developmental disabilities, he lives in a group home.
+
+</doc>
+<doc id="9367829" url="https://en.wikipedia.org/wiki?curid=9367829" title="The Pink Panther in: Olym-Pinks">
+The Pink Panther in: Olym-Pinks
+
+The Pink Panther in: Olym-Pinks, is an animated sports-themed special which first aired on ABC on February 22, 1980 to coincide with the 1980 Winter Olympics. This was the final Pink Panther cartoon to be produced by DePatie-Freleng Enterprises. It is also the last Pink Panther produced by creator Friz Freleng before his departing from DFE to return to Warner Bros. Animation.
+In Lake Placid, the cool cat and the little man are in a series of Winter Olympic games. After several comical mishaps including being chased by a piano that seemingly wants him dead and an upside-down chase through the snow after falling off a ski lift, in the end, the panther wins gold medal and the little man becomes second.
+On November 6, 2007, "Olym-pinks" was released alongside "Pink at First Sight" and "A Pink Christmas" on the DVD collection "The Pink Panther: A Pink Christmas" from MGM Home Entertainment/20th Century Fox Home Entertainment.
+
+</doc>
+<doc id="9367831" url="https://en.wikipedia.org/wiki?curid=9367831" title="Cirrochroa thais">
+Cirrochroa thais
+
+The Tamil Yeoman ("Cirrochroa thais") is a species of nymphalid butterfly found in forested areas of tropical South Asia and Southeast Asia.
+Wingspan 60-75 mm.
+
+</doc>
+<doc id="9367832" url="https://en.wikipedia.org/wiki?curid=9367832" title="Sulfamide">
+Sulfamide
+
+Sulfamide (IUPAC name: sulfuric diamide) is a chemical compound with the molecular structure HNSONH. Sulfamide is produced by the reaction of sulfuryl chloride with ammonia.
+Sulfamide was first prepared in 1838 by the French chemist Henri Victor Regnault.
+In organic chemistry, the term "sulfamide" may also refer to the functional group which consists of at least one organic group attached to a nitrogen atom of sulfamide.
+Symmetric sulfamides can be prepared directly from amines and sulfur dioxide gas:
+In this example, the reactants are aniline, triethylamine, and iodine. Sulfur dioxide is believed to be activated through a series of intermediates: EtN-I-I, EtN-I-I and EtN-SO.
+The sulfamide functional group is an increasingly common structural feature used in medicinal chemistry.
+
+</doc>
+<doc id="9367837" url="https://en.wikipedia.org/wiki?curid=9367837" title="Erik Petersen">
+Erik Petersen
+
+Erik Petersen may refer to:
+
+</doc>
+<doc id="9367840" url="https://en.wikipedia.org/wiki?curid=9367840" title="File:Hoodie.JPG">
+File:Hoodie.JPG
+
+Best Out Media
+
+</doc>
+<doc id="9367841" url="https://en.wikipedia.org/wiki?curid=9367841" title="File:Tepig.jpg">
+File:Tepig.jpg
+
+
