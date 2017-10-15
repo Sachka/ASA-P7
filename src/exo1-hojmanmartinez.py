@@ -1,7 +1,7 @@
 # encoding: utf-8
 from math import exp, log
 import random
-import SparseWeightVector
+from SparseWeightVector import SparseWeightVector
 
 test = "src/sequoia-corpus.np_conll"
 
