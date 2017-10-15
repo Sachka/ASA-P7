@@ -1,6 +1,6 @@
 import random
 
-test = "sequoia-corpus.np_conll"
+test = "src/sequoia-corpus.np_conll"
 
 def split(filename, randomize=False, proportions=(0.8,0.1,0.1)):
     sentence = []
@@ -50,7 +50,7 @@ def read_corpus(filename):
     corpus = []
     sentence = [['B1','B'],['B2','B']]
     sentences = []
-    instream = open(filename, 'r')
+    instream = open(filename, 'r', encoding="utf-8")
     line = instream.readline()
     while line:
         word_annotation = line.split()
@@ -58,17 +58,17 @@ def read_corpus(filename):
             if len(sentence) != 0:
                 sentence.extend([['F1'],['F2']])
                 sentences.append(sentence)
-            sentence = [['B1','B'],['B2','B']]
+            sentence = [['B1', 'B'], ['B2', 'B']]
         else:
             sentence.append([word_annotation[1],word_annotation[3]])
         line = instream.readline()
     if len(sentence) != 0:
-        sentence.extend([['F1'],['F2']])
+        sentence.extend([['F1'], ['F2']])
         sentences.append(sentence)
     instream.close()
-    #print(sentences[0])
+    # print(sentences[0])
     for sent in sentences:
-        for i in range(2,len(sent)-2):
+        for i in range(2, len(sent)-2):
             feats = {}
             feats["w-2={}".format(sent[i-2][0])] = 1
             feats["w-1={}".format(sent[i-1][0])] = 1
@@ -78,7 +78,7 @@ def read_corpus(filename):
             feats["t-2={}".format(sent[i-2][1])] = 1
             feats["t-1={}".format(sent[i-1][1])] = 1
             corpus.append((feats,sent[i][1]))
-    #print(corpus[0])
+    print(corpus[0])
     return corpus
 
 
