@@ -3,14 +3,14 @@ from collections import defaultdict
 class SparseWeightVector:
 
     def  __init__(self):
-        
-        self.weights = defaultdict(float)   
+
+        self.weights = defaultdict(float)
 
     def __call__(self,x_key,y_key):
         """
         This returns the weight of a feature couple (x,y)
         Enables an  x = w('a','b') syntax.
-        
+
         @param x_key: a tuple of observed values
         @param y_key: a string being a class name
         @return : the weight of this feature
@@ -26,7 +26,7 @@ class SparseWeightVector:
         @return  w . Phi(x,y)
         """
         return sum([self.weights[(x_key,y_key)] for x_key in xvec_keys])
-        
+
     @staticmethod
     def code_phi(xvec_keys,ykey):
         """
@@ -43,8 +43,8 @@ class SparseWeightVector:
     def __getitem__(self,key):
         """
         This returns the weight of feature couple (x,y) given as value.
-        Enables the 'x = w[]' syntax.	
-        
+        Enables the 'x = w[]' syntax.
+
         @param key: a couple (x,y) of observed and class value
         @return : the weight of this feature
         """
@@ -53,33 +53,33 @@ class SparseWeightVector:
     def __setitem__(self,key,value):
         """
         This sets the weight of a feature couple (x,y) given as key.
-        Enables the 'w[] = ' syntax.	
+        Enables the 'w[] = ' syntax.
         @param key:   a couple (x,y) of observed value and class value
         @param value: a real
         """
         self.weights[key] = value
 
     def __add__(self,other):
-    
-        weights =  self.weights.copy() 
+
+        weights =  self.weights.copy()
         for key,value in other.weights.items() :
             weights[key] += value
         w = SparseWeightVector()
         w.weights = weights
         return w
-        
+
     def __sub__(self,other):
-    
-        weights =  self.weights.copy() 
+
+        weights =  self.weights.copy()
         for key,value in other.weights.items() :
             weights[key] -= value
         w = SparseWeightVector()
         w.weights = weights
         return w
-     
+
     def __mul__(self,scalar):
-    	
-        weights =  self.weights.copy() 
+
+        weights =  self.weights.copy()
         for key,value in self.weights.items() :
             weights[key] *= scalar
         w = SparseWeightVector()
@@ -88,29 +88,29 @@ class SparseWeightVector:
 
     def __rmul__(self,scalar):
         return self.__mul__(scalar)
-        
-        
+
+
     def __truediv__(self,scalar):
-        weights =  self.weights.copy() 
+        weights =  self.weights.copy()
         for key,value in self.weights.items() :
             weights[key] /= scalar
         w = SparseWeightVector()
         w.weights = weights
         return w
 
-    
-    def __iadd__(self,other):    
+
+    def __iadd__(self,other):
         """
-        Sparse Vector inplace addition. Enables the '+=' operator.	
+        Sparse Vector inplace addition. Enables the '+=' operator.
         @param  other: a  SparseVectorModel object
         """
         for key,value in other.weights.items():
             self.weights[key] += value
         return self
 
-    def __isub__(self,other):    
+    def __isub__(self,other):
         """
-        Sparse Vector inplace substraction. Enables the '-=' operator.	
+        Sparse Vector inplace substraction. Enables the '-=' operator.
         @param  other: a  SparseVectorModel object
         """
         for key,value in other.weights.items():
@@ -126,7 +126,7 @@ class SparseWeightVector:
             w.weights[key] = -value
         return w
 
-    
+
     def load(self,istream):
         """
         Loads a model parameters from a text stream
@@ -134,17 +134,17 @@ class SparseWeightVector:
         """
         self.weights =  defaultdictionary(int)
         for line in istream:
-            fields = line.split() 	
+            fields = line.split()
             key,value = tuple(fields[:-1]),float(fields[-1])
             self.weights[key] =  value
-        
+
     def save(self,ostream):
         """
         Saves model parameters to a text stream
         @param ostream: an opened text output stream
 		"""
         for key,value in self.weights.items():
-            print(' '.join(list(key)+[str(value)]),file=ostream)
+            print(' '.join(list(key)+[str(value)]), file=ostream)
 
     def __str__(self):
         """
@@ -160,11 +160,11 @@ class SparseWeightVector:
                 s += 'phi(%s,%s) = 1 : w = %f\n'%(key,Y,value)
         return s
 
-    
+
 if __name__ == '__main__':
 
     #Simple usage example
-    X = ['a','b','c'] 
+    X = ['a','b','c']
     X = list(zip(X,X[1:]))
     print (X)
     w    = SparseWeightVector()
@@ -174,8 +174,5 @@ if __name__ == '__main__':
     w += delta
     print(delta)
     print(w)
-    print(w.dot(X,'A')) #dot product : W . Phi(X,A)  
-    print(w.dot(X,'B')) #dot product : W . Phi(X,B)  
-
-                
-                
+    print(w.dot(X,'A')) #dot product : W . Phi(X,A)
+    print(w.dot(X,'B')) #dot product : W . Phi(X,B)
