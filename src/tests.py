@@ -27,3 +27,7 @@ def optimise_bivariate(step_size=0.4, max_epochs=30):
     obj = x1**2 + x2**2 + 2 * x1 + 8 * x2
     print((x1, x2), obj)
     return (x1, x2)
+
+
+s = "Hérmes Pokémon"
+print(s)
